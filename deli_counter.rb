@@ -5,7 +5,7 @@ def line(arry)
   if (arry.size == 0)
     puts "The line is currently empty."
   else
-    arry.size do 
+    arry.size do
       puts "The line is currently, #{arry[count] + 1}"
     end
   end
