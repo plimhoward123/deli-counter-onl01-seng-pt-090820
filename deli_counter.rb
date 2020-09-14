@@ -1,5 +1,3 @@
-katz_deli[] = Array.new
-
 def line(arry)
   if (arry.length < 1)
     return "The line is currently empty."
