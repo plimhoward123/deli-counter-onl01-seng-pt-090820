@@ -7,5 +7,5 @@ if (arry.size == 0)
     arry.each do |customer, index|
       puts "Welcome, #{customer}. You are number #{index + 1} in line."
   end
-
+end
 end
