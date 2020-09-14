@@ -1,7 +1,7 @@
 katz_deli = []
 
 def line(arry)
-if (arry.length < 1)
+if (arry.size == 0)
     puts "The line is currently empty."
   else
     arry.each do |customer, index|
