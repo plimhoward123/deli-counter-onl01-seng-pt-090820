@@ -4,5 +4,4 @@ def line(arry)
   else
     arry.each do |customer, index|
       return "Welcome, #{customer}. You are number #{index + 1} in line."
-  end
 end
