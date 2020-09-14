@@ -8,11 +8,3 @@ def line(arry)
       return "Welcome, #{customer}. You are number #{index + 1} in line."
   end
 end
-
-def take_a_number(currntLine, name)
-
-end
-
-def now_serving()
-
-end
